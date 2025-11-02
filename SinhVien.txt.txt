@@ -1,0 +1,5 @@
+Mã SV     Họ Tên              Địa Chỉ             Ngày Sinh      Lớp       
+A100      Vo Van Ty           An Giang            10/26/2025     Lớp A     
+A200      Vo Van Ty2          An Giang            10/26/2025     Lớp A     
+A300      Vo Van Ty3          An Giang            10/26/2025     Lớp C     
+A300      Vo Van Ty3          An Giang            10/26/2025     Lớp B     

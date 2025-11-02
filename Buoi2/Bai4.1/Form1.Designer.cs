@@ -195,7 +195,6 @@
             this.Controls.Add(this.txtN);
             this.Controls.Add(this.label5);
             this.Name = "from1";
-            this.Text = "Bai4.1 - Bai 4.7";
             this.ResumeLayout(false);
             this.PerformLayout();
 
